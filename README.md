@@ -27,6 +27,7 @@ A Streamlit app allows users to interactively input data and get loan approval p
 ## Running the Streamlit App 
 ```bash
 streamlit run app.py
+```
 
 - Enter customer and loan details in the input form.
 - Get predicted loan approval probability instantly.
